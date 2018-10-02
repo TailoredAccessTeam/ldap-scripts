@@ -1,0 +1,3 @@
+[submodule "openldap_passwd"]
+	path = openldap_passwd
+	url = https://gist.github.com/rca/7217540
